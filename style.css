@@ -1,0 +1,53 @@
+.img1 {
+    width: 435px;
+    height: 254px;
+    position: absolute;
+    z-index: 5;
+    left: 0;
+    top: 0;
+    
+}
+.img2 {
+    width: 558px;
+    height: 254px;
+    left: 371px;
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    
+
+}
+.img3 {
+    width: 421px;
+    height: 254px;
+    left: 859px;
+    position: absolute;
+    z-index: 5;
+    top: 0; 
+    right:0;
+
+}
+body {
+    width: 1280px;
+    height: 832px;
+    background-color: #000000;
+}
+@font-face {
+    font-family: "fonti";
+    src: url(Inter-VariableFont_slnt\,wght.ttf);
+}
+
+p {
+font-family: "fonti";
+font-weight: 400px;
+width: 538px;
+height: 59px;
+top: 195px;
+left: 391px;
+text-align: center;
+color: #FFFFFF;
+font-size: 12px;
+line-height: 14.52px;
+position: absolute;
+z-index: 10;
+}
